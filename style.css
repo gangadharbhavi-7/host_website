@@ -68,12 +68,4 @@ footer {
     bottom: 0;
 }
 
-/* Additional styling */
-.resume ul, .bio-data ul {
-    list-style-type: square;
-    padding-left: 20px;
-}
 
-footer p {
-    margin: 0;
-}
