@@ -14,24 +14,24 @@ header {
     text-align: center;
 }
 
-div{
+.pin{
     background-color: orangered;
     width:100%;
     height:20px;
     margin-top: 20px;
 }
 
-div ul {
+.pin ul {
     list-style-type: none;
     padding: 0;
 }
 
-div ul li {
+.pin ul li {
     display: inline;
     margin: 0 15px;
 }
 
-div ul li a {
+.pin ul li a {
     color: white;
     text-decoration: none;
     
@@ -47,11 +47,15 @@ section {
 
 h1{
     color:white;
-    text-decoration:underline;
+    font-family: 'Georgia', serif;
+
 }
 
 h2{
     color:black;
+    font-family: 'Georgia', serif;
+
+    
 }
 
 footer {
